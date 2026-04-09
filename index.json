@@ -1,0 +1,17 @@
+{
+    "_comment": "Add entries here when a macro is approved. Format below.",
+    "_format": {
+        "LEVEL_ID": {
+            "mhr":         true,
+            "json":        false,
+            "uploader":    "PlayerName",
+            "description": "Short description of the run"
+        }
+    },
+    "128": {
+        "mhr":         true,
+        "json":        false,
+        "uploader":    "example_player",
+        "description": "Full completion, no deaths"
+    }
+}
