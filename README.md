@@ -7,8 +7,7 @@ Community macro previews for Geometry Dash levels, used by the **Macro Preview**
 ```
 index.json          ← Level ID → macro metadata lookup
 macros/
-  12345.mhr         ← Mega Hack v7 replay
-  67890.json        ← Echo replay
+  12345.gdr
 ```
 
 ## Adding a macro (maintainer)
