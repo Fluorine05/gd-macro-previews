@@ -43,6 +43,16 @@
         "levelIDs": [
           31325851
         ]
+      },
+      "macro-126242564-v1": {
+        "name": "Flamewall macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/126242564.gdr",
+        "url_json": null,
+        "levelIDs": [
+          126242564
+        ]
       }
     }
   }
