@@ -25,6 +25,16 @@
         "levelIDs": [
           128
         ]
+      },
+      "macro-102647436-v1": {
+        "name": "Aeternus macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/102647436.gdr",
+        "url_json": null,
+        "levelIDs": [
+          102647436
+        ]
       }
     }
   }
