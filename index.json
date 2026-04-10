@@ -93,6 +93,16 @@
         "levelIDs": [
           137820764
         ]
+      },
+      "macro-26454746-v1": {
+        "name": "Zobros Wave macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/26454746.gdr",
+        "url_json": null,
+        "levelIDs": [
+          26454746
+        ]
       }
     }
   }
