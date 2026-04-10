@@ -1,40 +1,16 @@
 {
-  "128": {
-    "mhr": true,
-    "json": false,
-    "uploader": "example_player",
-    "description": "Full completion, no deaths"
-  },
-  "_comment": "Add entries here when a macro is approved. Format below.",
-  "_format": {
-    "LEVEL_ID": {
-      "mhr": true,
-      "json": false,
-      "uploader": "PlayerName",
-      "description": "Short description of the run"
-    }
-  },
+  "manifest": 1,
+  "id": "fluorine.macro-preview",
+  "name": "GD Macro Previews",
   "macros": {
     "hosted": {
-      "macro-128-v1": {
-        "name": "Test macro",
-        "uploader": "test",
-        "description": "Community submitted macro",
-        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/128.gdr",
-        "url_json": null,
-        "levelIDs": [
-          128
-        ]
-      },
       "macro-102647436-v1": {
         "name": "Aeternus macro",
         "uploader": "fluorine",
         "description": "Community submitted macro",
         "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/102647436.gdr",
         "url_json": null,
-        "levelIDs": [
-          102647436
-        ]
+        "levelIDs": [102647436]
       }
     }
   }
