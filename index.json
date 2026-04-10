@@ -83,6 +83,16 @@
         "levelIDs": [
           59588461
         ]
+      },
+      "macro-137820764-v1": {
+        "name": "14 seconds of ship macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/137820764.gdr",
+        "url_json": null,
+        "levelIDs": [
+          137820764
+        ]
       }
     }
   }
