@@ -113,6 +113,16 @@
         "levelIDs": [
           105829484
         ]
+      },
+      "macro-87960-v1": {
+        "name": "Jumper v2 macro",
+        "uploader": "fluorine (Auto)",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/87960.gdr",
+        "url_json": null,
+        "levelIDs": [
+          87960
+        ]
       }
     }
   }
