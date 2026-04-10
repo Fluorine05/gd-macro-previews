@@ -123,6 +123,16 @@
         "levelIDs": [
           87960
         ]
+      },
+      "macro-8393480-v1": {
+        "name": "DUAL CHALLENGE macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/8393480.gdr",
+        "url_json": null,
+        "levelIDs": [
+          8393480
+        ]
       }
     }
   }
