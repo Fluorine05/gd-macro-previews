@@ -10,7 +10,19 @@
         "description": "Community submitted macro",
         "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/102647436.gdr",
         "url_json": null,
-        "levelIDs": [102647436]
+        "levelIDs": [
+          102647436
+        ]
+      },
+      "macro-119550490-v1": {
+        "name": "Amethyst macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/119550490.gdr",
+        "url_json": null,
+        "levelIDs": [
+          119550490
+        ]
       }
     }
   }
