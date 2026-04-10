@@ -103,6 +103,16 @@
         "levelIDs": [
           26454746
         ]
+      },
+      "macro-105829484-v1": {
+        "name": "one click macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/105829484.gdr",
+        "url_json": null,
+        "levelIDs": [
+          105829484
+        ]
       }
     }
   }
