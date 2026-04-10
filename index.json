@@ -53,6 +53,16 @@
         "levelIDs": [
           126242564
         ]
+      },
+      "macro-86084399-v1": {
+        "name": "LIMBO macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/86084399.gdr",
+        "url_json": null,
+        "levelIDs": [
+          86084399
+        ]
       }
     }
   }
