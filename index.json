@@ -63,6 +63,16 @@
         "levelIDs": [
           86084399
         ]
+      },
+      "macro-63084928-v1": {
+        "name": "dirtd is gamer macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/63084928.gdr",
+        "url_json": null,
+        "levelIDs": [
+          63084928
+        ]
       }
     }
   }
