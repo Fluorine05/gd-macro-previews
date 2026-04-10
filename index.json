@@ -73,6 +73,16 @@
         "levelIDs": [
           63084928
         ]
+      },
+      "macro-59588461-v1": {
+        "name": "Wave Challenge lol 2 macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/59588461.gdr",
+        "url_json": null,
+        "levelIDs": [
+          59588461
+        ]
       }
     }
   }
