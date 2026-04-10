@@ -23,6 +23,16 @@
         "levelIDs": [
           119550490
         ]
+      },
+      "macro-110816181-v1": {
+        "name": "BOOBAWAMBA macro",
+        "uploader": "fluorine",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/110816181.gdr",
+        "url_json": null,
+        "levelIDs": [
+          110816181
+        ]
       }
     }
   }
