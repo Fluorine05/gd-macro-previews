@@ -143,6 +143,16 @@
         "levelIDs": [
           137953018
         ]
+      },
+      "macro-138080911-v1": {
+        "name": "Unnamed 6 macro",
+        "uploader": "fluorine (Auto)",
+        "description": "Community submitted macro",
+        "url_mhr": "https://raw.githubusercontent.com/Fluorine05/gd-macro-previews/main/macros/138080911.gdr",
+        "url_json": null,
+        "levelIDs": [
+          138080911
+        ]
       }
     }
   }
